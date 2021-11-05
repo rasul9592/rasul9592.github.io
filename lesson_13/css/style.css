@@ -1,0 +1,96 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.container {
+	width: 320px;
+	margin: 75px auto 0 auto;
+}
+
+.form {
+	min-height: 370px;
+	border: 1px solid #cfdede;
+	padding-top: 33px;
+}
+
+.form-header {
+	position: relative;
+	top: 22px;
+	background-color: #01b3b3;
+	width: 149px;
+	height: 25px;
+	color: #fff;
+	margin-left: 31px;
+	box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.15);
+	padding-top: 5px;
+	padding-left: 9px;
+	letter-spacing: -0.01em;
+}
+
+.form-header span {
+	font-weight: 700;
+}
+
+.form p {
+	margin-left: 30px;
+	font-weight: 700;
+}
+
+.form-btn, .form-input {
+	width: 261px;
+	margin-left: 29px;
+}
+
+.form-email {
+	margin-top: 20px;
+}
+
+.form-input {
+	border: 1px solid #cfdede;
+	padding-left: 10px;
+	height: 31px;
+}
+
+p strong {
+	color: #01c2c2;
+}
+
+.input-email {
+	margin-top: 12px;
+}
+
+::-webkit-input-placeholder {
+	letter-spacing: 0.02em;
+	font-weight: 400;
+	font-style: italic;
+	color: #777777;
+}
+
+.choose-pass {
+	margin-top: 16px;
+}
+
+.input-pass {
+	margin-top: 15px;
+}
+
+.conf-pass {
+	margin-top: 17px;
+}
+
+.input-conf-pass {
+	margin-top: 13px;
+}
+
+.form-btn {
+	margin-top: 35px;
+	background-color: #01b3b3;
+	font-size: 16px;
+	font-weight: 700;
+	color: #fff;
+	height: 45px;
+	border: 1px solid #01c2c2;
+	border-radius: 3px;
+	text-shadow: 0px 1px 0px rgba(0,0,0,0.1);
+}

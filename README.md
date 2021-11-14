@@ -12,4 +12,5 @@
 [Урок 12](https://rasulelh.github.io/lesson_12/ "Хостинг от GitHub") - Работа с репозиторием на GitHub  
 [Урок 13](https://rasulelh.github.io/lesson_13/ "Адаптивная верстка") - Верстка PixelPerfect  
 [Урок 13.2](https://rasulelh.github.io/lesson_13.2/ "Урок практики") - Верстка шапки сайта  
-[Урок 14](https://rasulelh.github.io/lesson_14/ "Подключение шрифтов") - Подключение шрифтов
+[Урок 14](https://rasulelh.github.io/lesson_14/ "Подключение шрифтов") - Подключение шрифтов  
+[Урок 14.1](https://rasulelh.github.io/lesson_14.1/ "Подключение шрифтов. Верстка первого экрана") - Практика. Часть 2  
